@@ -7,7 +7,7 @@ public class Card{
     private String rank; // Rank of card
 
     //card constructor to store information for each card
-    public Card(int value, String suit, String rank){
+    public Card(int value, String suit, String rank){ //yoo1
         this.value = value;
         this.suit = suit;
         this.rank = rank;
